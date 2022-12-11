@@ -1,0 +1,8 @@
+
+
+  .react-tabs__tab:focus:after {
+    all:unset;
+  }
+
+
+  
